@@ -340,9 +340,7 @@ a {
   line-height: 24px;
   margin-bottom: 0;
 }
-.sec3 {
 
-}
 .sec3box1 {
   display: flex;
   flex-flow: column;
@@ -640,8 +638,9 @@ a {
 .sec4box1 {
   display: flex;
   flex-flow: row;
-  gap: 2rem;
+  gap: 8.5rem;
   justify-content: center;
+  
 }
 .sec4box1a {
   display: flex;
